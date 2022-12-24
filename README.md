@@ -1,2 +1,2 @@
-# pygame-
-闲暇时记录以前做过的pygame小游戏
+# pygame
+记录以前闲暇时做过的pygame小游戏
